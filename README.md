@@ -1,6 +1,8 @@
 ### Hi, I'm Aayushi
 
-I'm a full-stack engineer at NielsenIQ in Pune, working in media measurement. I care most about tools that help people think, reflect and make things, and I'm moving into LLM and GenAI engineering. I also write and direct films.
+I'm a full-stack engineer at NielsenIQ in Pune, working in media measurement, and moving into LLM and GenAI engineering.
+
+Outside of code I paint, write, read psychology and philosophy, and I'm learning filmmaking from the ground up. My projects sit where these meet: tools for reflection, practice, and understanding the stories we watch.
 
 I build quiet software. No streaks, no feeds, nothing that pulls. The app waits for the user.
 
